@@ -1,1 +1,4 @@
-# NewRepo
+# Calculator
+
+Scientific calculator for performing operations.
+
